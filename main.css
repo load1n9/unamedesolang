@@ -1,0 +1,30 @@
+body {
+    background-color: #cccbcb;
+}
+
+div {
+    position: absolute;
+    top:0px;
+    right:0px;
+    background-color: #bbbbbb;
+    width: 40%;
+    height: 100%
+}
+
+#input {
+    position: absolute;
+    top:0px;
+    left:0px;
+    background-color: #bbbbbb;
+    width: 40%;
+    height: 100%
+}
+
+button {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    width: 10%;
+    height : 5%;
+
+}
